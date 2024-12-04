@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208815554232",
+    "project_id": "edsel1274",
+    "storage_bucket": "edsel1274.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208815554232:android:693e6ac84e54687a9abe4d",
+        "android_client_info": {
+          "package_name": "uts.c14220282.cobafirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmtP4CHWi5qBLBRWtk8Xf2_Mu2LJAhSKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
